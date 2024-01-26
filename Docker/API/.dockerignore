@@ -1,0 +1,4 @@
+./config/config.env
+./Dockerfile
+./node_modules
+./.git
